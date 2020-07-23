@@ -1,0 +1,5 @@
+BobAction View
+is together
+  Tab
+  onClick <setFlowTo ../../Content/Bob
+  text Bob

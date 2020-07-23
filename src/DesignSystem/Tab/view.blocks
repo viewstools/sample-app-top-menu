@@ -1,0 +1,35 @@
+Tab View
+  Horizontal
+  height 28
+  onClick <
+  paddingLeft 16
+  paddingRight 16
+  marginLeft <
+  backgroundColor rgba(255,255,255,0)
+  borderBottomLeftRadius 4
+  borderBottomRightRadius 4
+  borderTopLeftRadius 4
+  borderTopRightRadius 4
+  justifyContent center
+  alignItems baseline
+  when <isHovered
+  backgroundColor rgba(255,255,255,0.2) easeOut
+  when <isSelected
+  backgroundColor green 
+    Text
+    fontFamily Source Sans Pro
+    fontWeight 400
+    marginRight 8
+    color white
+    text < Menu
+    Text
+    onWhen <isSelected
+    text On
+    color yellow
+    Text
+    onWhen <isHovered
+    text Hello
+    Text
+    onWhen <!isSelected
+    text Off
+    color red

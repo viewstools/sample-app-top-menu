@@ -1,0 +1,12 @@
+Menu View
+is together
+  Horizontal
+  alignItems center
+  backgroundColor rgba(255,255,255,0.1)
+  height 64
+  width 100%
+  paddingLeft 32
+  paddingRight 32
+    BobAction
+    PatrickAction
+    FormAction

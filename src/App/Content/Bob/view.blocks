@@ -1,0 +1,18 @@
+Bob View
+is together
+  Image
+  width 300
+  height 200
+  backgroundImage https://media.giphy.com/media/7DzlajZNY5D0I/giphy.gif
+  backgroundPosition center center
+  backgroundRepeat noRepeat
+  backgroundSize cover
+  Horizontal
+  width 100
+  height 32
+  backgroundColor grey
+    ThunderIcon
+    width 16
+    height 16
+    Text
+    text patrick

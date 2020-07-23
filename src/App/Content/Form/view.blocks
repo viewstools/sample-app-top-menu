@@ -1,0 +1,38 @@
+Form View
+is together
+  Capture
+  marginTop 16
+  autoFocus true
+  backgroundColor rgba(255,255,255,0.2)
+  borderBottomLeftRadius 8
+  borderBottomRightRadius 8
+  borderTopLeftRadius 8
+  borderTopRightRadius 8
+  borderColor transparent
+  borderStyle solid
+  borderWidth 2
+  alignSelf stretch
+  color #161616
+  disabled false
+  fontFamily Source Sans Pro
+  fontSize 16
+  fontWeight 500
+  letterSpacing 0.3
+  paddingBottom 8
+  paddingLeft 16
+  paddingRight 16
+  paddingTop 8
+  placeholder type something
+  ref <innerRef
+  textTransform < none
+  type text
+  width 200
+  when <isPlaceholder
+  color #808080
+  textTransform none
+  when <isFocused
+  backgroundColor rgba(255,255,255,1) easeOut
+  borderColor #00a2ff easeOut
+  when <isDisabled
+  backgroundColor transparent
+  borderColor #ffffff 

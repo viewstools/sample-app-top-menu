@@ -1,0 +1,8 @@
+ButtonIcon View
+  Vertical
+  width 32
+  height 32
+  backgroundColor < red
+  # overflowY auto
+  # overflowX auto
+    Children

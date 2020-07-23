@@ -1,0 +1,9 @@
+PatrickContent View
+is together
+  Image
+  width 300
+  height 200
+  backgroundImage https://media.giphy.com/media/8WJw9kAG3wonu/giphy.gif
+  backgroundPosition center center
+  backgroundRepeat noRepeat
+  backgroundSize cover

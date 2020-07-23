@@ -1,0 +1,12 @@
+Content View
+is separate
+  Vertical
+  flexBasis auto
+  flexGrow 1
+  flexShrink 1
+  paddingLeft 32
+  paddingRight 32
+    Bob
+    Patrick
+    Form
+    Nesting

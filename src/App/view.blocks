@@ -1,0 +1,9 @@
+App View
+is together
+  Vertical
+  flexBasis auto
+  flexGrow 1
+  flexShrink 1
+  backgroundColor #1e1e1e
+    Menu
+    Content

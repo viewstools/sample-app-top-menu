@@ -1,0 +1,6 @@
+PatrickAction View
+is together
+  Tab
+  onClick <setFlowTo ../../Content/Patrick
+  text Patrick
+  marginLeft 16
